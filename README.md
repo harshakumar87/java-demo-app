@@ -1,4 +1,4 @@
-### Instructions to use demo java app
+### Instructions to use demo java app to check FETCH
 - Clone the repo
 
     ```git clone https://github.com/thechetantalwar/java-demo-app```
